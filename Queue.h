@@ -30,4 +30,4 @@ void Queue_insert(Queue* const me, int k);
 int Queue_remove(Queue* const me);
 Queue* Queue_Create(void);
 void Queue_Destroy(Queue* const me);
-#endif /*QUEUE_H_*
+#endif /*QUEUE_H_*/
